@@ -3,11 +3,6 @@ theme: seriph
 class: text-center
 highlighter: shikiji
 lineNumbers: false
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 transition: slide-left
@@ -36,3 +31,17 @@ An introduction for non-developers
         <carbon-logo-github />
     </a>
 </div>
+
+
+---
+layout: statement
+---
+
+# Why this session?
+Everyone can be agile!
+It's not only a developer thing ...
+
+---
+
+# Know about Pomodoro Technique?
+Method for personal timeboxing

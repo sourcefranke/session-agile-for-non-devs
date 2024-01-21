@@ -1,4 +1,4 @@
-# Agile Manifesto for non-devs
+# Agile Manifesto for Non-Devs
 
 These are my presentation slides for a session about the Agile Manifesto.
 My intention for this session.
