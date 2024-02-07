@@ -50,8 +50,14 @@ It's not only a developer thing ...
 
 
 ---
+src: pages/problem.md
+---
+
+
+---
 src: pages/frameworks.md
 ---
+
 
 ---
 
@@ -64,8 +70,9 @@ Method for personal time-boxing
 
 
 ---
-src: pages/manifesto.md
+src: pages/manifesto/overview.md
 ---
+
 
 ---
 layout: section

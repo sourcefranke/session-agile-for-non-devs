@@ -1,12 +1,71 @@
 <style>
-    .principle {
-        @apply flex text-center items-center text-2xl;
-        height: 40%;
-    }
+.principle {
+    @apply flex text-center items-center text-2xl;
+    height: 40%;
+}
+
+img {
+    width: 140px;
+}
 </style>
 
 # Principles
 A quick overview
+
+<div class="flex flex-col gap-4 text-xs">
+    <div class="flex justify-between">
+        <div>
+            <span>1. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>2. Changing requirements</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>3. Deliver frequently</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>4. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>5. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>6. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+    </div>
+    <div class="flex justify-between">
+        <div>
+            <span>7. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>8. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>9. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>10. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>1. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+        <div>
+            <span>1. Continuous Delivery</span>
+            <img src="/simplicity.webp" />
+        </div>
+    </div>
+</div>
 
 <ol class="flex flex-col justify-between text-xs" style="height: 85%">
 <li>
